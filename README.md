@@ -1,1 +1,0 @@
-# stars-triangle-using-nested-for-loops
